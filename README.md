@@ -25,6 +25,6 @@ Tech Innova é um projeto desenvolvido no contexto escolar para simular o func
 | Frontend       | HTML, CSS, Tailwind CDN, JavaScript       |
 | Backend        | Node.js, Express, TypeScript              |
 | Funcionalidades| `sendContactEmails()` com `nodemailer`   |
-| Hospedagem     | Render.com                                |
+| Hospedagem     | Vercel.com                                |
 | Armazenamento  | `localStorage` para quiz interativo       |
 
