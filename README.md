@@ -1,7 +1,7 @@
 # 🚀 Tech Innova – Simulação de Empresa de Tecnologia
 
 Acesse o site em produção:  
-🌐 https://tech-innova.onrender.com/
+🌐 https://tech-innova-roan.vercel.app/
 
 ---
 
