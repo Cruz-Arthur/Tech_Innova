@@ -12,8 +12,10 @@ app.use(express.json());
 
 const allowedOrigins = [
   'http://localhost:3000',
-  'http://127.0.0.1:5500',
   'http://localhost:3001',
+  'http://localhost:3002',
+  'http://127.0.0.1:3002',
+  'http://127.0.0.1:5500',
   'https://tech-innova.onrender.com',
 ];
 
@@ -22,7 +24,7 @@ app.use(cors({
     if (!origin || allowedOrigins.indexOf(origin) !== -1) {
       callback(null, true);
     } else {
-      callback(new Error('Not allowed by CORS'));
+      callback(null, false);
     }
   },
   methods: ['GET', 'POST', 'OPTIONS'],
