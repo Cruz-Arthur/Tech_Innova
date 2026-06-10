@@ -1,4 +1,4 @@
-# 🚀 Tech Innova – Simulação de Empresa de Tecnologia
+# 🚀 Tech Innova – Simulação de Empresa de Tecnologia - 2025
 
 Acesse o site em produção:  
 🌐 https://tech-innova-roan.vercel.app/
